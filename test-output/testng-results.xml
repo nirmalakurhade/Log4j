@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4399" started-at="2021-11-22T21:03:15 IST" finished-at="2021-11-22T21:03:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4399" started-at="2021-11-22T21:03:15 IST" finished-at="2021-11-22T21:03:20 IST">
+      <class name="com.test.TestDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.TestDemo@10dba097]" name="setup" is-config="true" duration-ms="28615" started-at="2021-11-22T21:02:47 IST" finished-at="2021-11-22T21:03:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.test.TestDemo@10dba097]" name="test02" duration-ms="1385" started-at="2021-11-22T21:03:15 IST" finished-at="2021-11-22T21:03:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:com.test.TestDemo@10dba097]" name="test03" duration-ms="1503" started-at="2021-11-22T21:03:17 IST" finished-at="2021-11-22T21:03:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="test05()[pri:0, instance:com.test.TestDemo@10dba097]" name="test05" duration-ms="615" started-at="2021-11-22T21:03:18 IST" finished-at="2021-11-22T21:03:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+        <test-method status="PASS" signature="test06()[pri:0, instance:com.test.TestDemo@10dba097]" name="test06" duration-ms="635" started-at="2021-11-22T21:03:19 IST" finished-at="2021-11-22T21:03:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.test.TestDemo@10dba097]" name="test4" duration-ms="202" started-at="2021-11-22T21:03:20 IST" finished-at="2021-11-22T21:03:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.test.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
